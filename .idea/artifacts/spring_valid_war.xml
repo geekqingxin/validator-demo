@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-valid:war">
+    <output-path>$PROJECT_DIR$/spring-valid/target</output-path>
+    <root id="archive" name="jdb.war">
+      <element id="artifact" artifact-name="spring-valid:war exploded" />
+    </root>
+  </artifact>
+</component>
